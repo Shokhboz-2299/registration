@@ -1,0 +1,16 @@
+[
+    {
+        "userId": 1,
+        "username": "ali",
+        "password": "dc7b81fd2fff7f765c9db9420b55a09a31f1ec49492aab0ebc8739ba5c20312f",
+        "gender": "male",
+        "birthDate": "2000-10-11"
+    },
+    {
+        "userId": 2,
+        "password": "78ef0e89db5d9ee6cff7e2efef5acdb07a1d779cb336fe24fe2a0c241db79582",
+        "username": "halil",
+        "gender": "male",
+        "birthDate": "2000-02-25"
+    }
+]
